@@ -219,8 +219,6 @@
 
 7、所有的增加、修改、删除能同步到文件；也从文件读取数据到程序。
 
-##样例：https://github.com/gggaaallleee/test1
-
 ## 7. 考勤管理系统
 
 ### 基本要求：
@@ -244,6 +242,7 @@
 7、所有的增加、修改、删除能同步到文件；也从文件读取数据到程序。
 
 ## 8、面包店销售管理系统
+### [样例](https://github.com/SGSxingchen/Bakery-Sales-Management-System)
 
 ### 基本要求：
 
@@ -290,6 +289,7 @@
 4、对学生的信息输入、修改、删除均可以同步到文件中，系统也可以通过记录的文件读入数据。 
 
 ## 10、学校开课查询系统
+### [样例](https://github.com/JINNMnm/zjut_cpp_programming)
 
 ### 基本要求：
 
@@ -428,6 +428,8 @@
 7、使用文件读写相关的信息（将信息存入文件或者从文件中读取信息进行操作）；
 
 ## 17、银行账户管理程序系统
+
+### [样例](https://github.com/Tianci-King/Bank-account-management-software-system/)
 
 ### 基本要求：
 
